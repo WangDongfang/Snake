@@ -1,5 +1,5 @@
 /*==============================================================================
-** os.c -- tetris os interface. now support VXWORKS & DFEWOS.
+** os.c -- os interface. now support VXWORKS & DFEWOS.
 **
 ** MODIFY HISTORY:
 **

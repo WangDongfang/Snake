@@ -1,5 +1,5 @@
 /*==============================================================================
-** os.h -- tetris os interface header file.
+** os.h -- os interface header file.
 **
 ** MODIFY HISTORY:
 **

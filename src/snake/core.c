@@ -8,7 +8,6 @@
 
 #include <stdio.h>         /* prinf() */
 #include <stdlib.h>        /* srand(), rand() */
-#include <string.h>        /* memcpy() */
 
 #include "core.h"
 

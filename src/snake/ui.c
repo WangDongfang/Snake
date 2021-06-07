@@ -1,5 +1,5 @@
 /*==============================================================================
-** tty_snake.c -- a snake game in tty.
+** ui.c -- a snake game in tty.
 **
 ** MODIFY HISTORY:
 **
